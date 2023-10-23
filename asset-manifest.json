@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Character-Wiki/static/css/main.8c3980f2.css",
+    "main.js": "/Character-Wiki/static/js/main.aee3fb42.js",
+    "static/js/787.142b4b80.chunk.js": "/Character-Wiki/static/js/787.142b4b80.chunk.js",
+    "index.html": "/Character-Wiki/index.html",
+    "main.8c3980f2.css.map": "/Character-Wiki/static/css/main.8c3980f2.css.map",
+    "main.aee3fb42.js.map": "/Character-Wiki/static/js/main.aee3fb42.js.map",
+    "787.142b4b80.chunk.js.map": "/Character-Wiki/static/js/787.142b4b80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c3980f2.css",
+    "static/js/main.aee3fb42.js"
+  ]
+}
